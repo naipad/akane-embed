@@ -1,0 +1,11 @@
+.{
+    .name = .akane_embed,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.16.0",
+    .fingerprint = 0xf86d0b9302d3a8f8,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}

@@ -1,0 +1,12 @@
+.{
+    .name = .compress,
+    .version = "0.0.1",
+    .dependencies = .{
+        .akane_embed = .{
+            .path = "../../",
+        },
+    },
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0x4934d319cfe1ff4e,
+}
